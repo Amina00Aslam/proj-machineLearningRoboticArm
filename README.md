@@ -1,5 +1,5 @@
 # proj-machineLearningRoboticArm
-This is a 3 degrees of freedom(DOF) robotic arm developed using Machine Learning. The robotic arm used consists of 6 servo motors. Arduino was used to interface the servos of the arm with the Object Detection and other Machine Learning modules.
+A 3 degrees-of-freedom(DOF) robotic arm developed using Machine Learning. The robotic arm used consists of 6 servo motors. Arduino was used to interface the servos of the arm with the Object Detection and other Machine Learning modules.
 The folder named 'Sample_TFLite_mode_dust_new' contains the tflite trained model and label map for the Machine Learning model. 
 
 Also, find the Arduino file for controlling the servos of the robotic arm. This code will come into use when you set up the hardware which is the servo motors of the robotic arm with Arduino and then connect the Arduino controller board with your machine on which this machine learning learning model is running.
